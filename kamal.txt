@@ -1,0 +1,6 @@
+This is my first txt tile i created with the: 
+New-Item Kamal.txt
+I opened this file with the:
+Invoke-Item Kamal.txt
+
+and here we are!
